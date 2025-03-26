@@ -4,6 +4,7 @@
     define('USER', 'root');
     define('PASSWORD', '');
 
+    //classe para fazer conexao com o mySQL
     class Connect{
         protected $connection;
 
